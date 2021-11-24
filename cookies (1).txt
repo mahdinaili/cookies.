@@ -1,0 +1,7 @@
+.facebook.com	false	/	true	1633776454	wd	1366x654
+.facebook.com	false	/	true	1696243655	datr	nzhYYZypd3MXA_yDcrum3Esv
+.facebook.com	false	/	true	1696243655	sb	nzhYYdBWO4c7sXIRF2rTxn8r
+.facebook.com	false	/	true	1664707652	c_user	100073331558264
+.facebook.com	false	/	true	1664707652	xs	44%3AiMx5l9CR-MhgCA%3A2%3A1633171653%3A-1%3A-1
+.facebook.com	false	/	true	1640947649	fr	0asDJMZh8uYybB1AV.AWUrXa5rS-XaZt4-MGtNiXoTm68.BhWDif.6M.AAA.0.0.BhWDjE.AWUSVsmqEEI
+.facebook.com	false	/	true	1633261674	spin	r.1004496399_b.trunk_t.1633171673_s.1_v.2_
